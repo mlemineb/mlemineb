@@ -19,8 +19,8 @@
     
 <p>
 <!-- ////////// FIRST 2 PROJECTS THUMBNAILS ////////// -->
-  <img width="400" height="210" src="https://github.com/mlemineb/Document-Analyzer-App/blob/www/app_gif.gif" />
-  <img width="400" height="210" src="https://github.com/mlemineb/Rimbac/blob/www/screenshot.PNG" /> 
+  <img width="400" height="210" src="https://github.com/mlemineb/Document-Analyzer-App/blob/main/www/app_gif.gif" />
+  <img width="400" height="210" src="https://github.com/mlemineb/Rimbac/blob/master/www/screenshot.PNG" /> 
     
 <!-- ////////// FIRST 2 PROJECTS STAT ////////// -->       
   <a href="https://github.com/mlemineb/Document-Analyzer-App">
